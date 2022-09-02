@@ -1,7 +1,7 @@
 # Hello, World ! مرحبا بالعالم
 
 
-Hello, World ! مرحبا بالعالم
+
 
 
 
